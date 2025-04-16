@@ -1,0 +1,17 @@
+# .gitignore
+
+# Node modules
+task-manager-frontend/node_modules/
+task-manager-frontend/build/
+
+# Java Maven
+task-manager-backend/target/
+
+# IDE settings
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
